@@ -1,11 +1,11 @@
 #applenews-start
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-USER-AGENT,com.apple.geod*
-USER-AGENT,com.apple.Maps
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,Maps*
+USER-AGENT,*AppleNews*
+USER-AGENT,*com.apple.news*
+USER-AGENT,*com.apple.geod*
+USER-AGENT,*com.apple.Maps
+USER-AGENT,*geod*
+USER-AGENT,*locationd*
+USER-AGENT,*Maps*
 
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
