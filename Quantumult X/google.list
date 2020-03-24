@@ -1,0 +1,7 @@
+#google-start
+user-agent,*com.google.ios.youtubemusic*,myProxy
+user-agent,*YouTubeMusic*,myProxy
+
+host,www.google.com,myProxy
+host-suffix,googleapis.com,myProxy
+#google-end
