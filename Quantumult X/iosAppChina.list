@@ -1,3 +1,5 @@
 #欧陆词典-start
-host-suffix,translate.google.cn,DIRECT
+host-suffix,translate.google.cn,direct
 #欧陆词典-end
+
+host-keyword,baidu,direct
