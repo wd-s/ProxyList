@@ -16,9 +16,12 @@ host,news.iadsdk.apple.com,myProxy
 host,apple.comscoreresearch.com,myProxy
 host,play-cdn.itunes-apple.com.akadns.net,myProxy
 host,play.itunes.apple.com,myProxy
+host,buy.itunes.apple.com,myProxy
 
 host-suffix,apple.news,myProxy
 host-suffix,ls.apple.com,myProxy
 host-suffix,lcdn-registration.apple.com,myProxy
 host-suffix,lcdn-locator.apple.com,myProxy
+
+
 #applenews-end
