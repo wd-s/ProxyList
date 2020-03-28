@@ -3,3 +3,9 @@ host-suffix,translate.google.cn,direct
 #欧陆词典-end
 
 host-keyword,baidu,direct
+
+host-keyword,baidu,direct
+
+host-keyword,qq,direct
+
+host-keyword,csdn,direct
