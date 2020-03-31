@@ -12,7 +12,6 @@ host,news-edge.apple.com,myProxy
 host,news-events.apple.com,myProxy
 host,gspe1-ssl.ls.apple.com,myProxy
 host,gs-loc.apple.com,myProxy
-host,news.iadsdk.apple.com,myProxy
 host,apple.comscoreresearch.com,myProxy
 host,play-cdn.itunes-apple.com.akadns.net,myProxy
 host,play.itunes.apple.com,myProxy
@@ -21,6 +20,7 @@ host,su.itunes.apple.com,myProxy
 host,e.crashlytics.com,myProxy
 host,xp.apple.com,myProxy
 
+host-suffix,iadsdk.apple.com,myProxy
 host-suffix,apple.news,myProxy
 host-suffix,ls.apple.com,myProxy
 host-suffix,lcdn-registration.apple.com,myProxy
