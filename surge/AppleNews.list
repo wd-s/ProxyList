@@ -12,11 +12,15 @@ DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,gs-loc.apple.com
-DOMAIN,iadsdk.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,play-cdn.itunes-apple.com.akadns.net
 DOMAIN,play.itunes.apple.com
+DOMAIN,buy.itunes.apple.com
+DOMAIN,su.itunes.apple.com
+DOMAIN,e.crashlytics.com
+DOMAIN,xp.apple.com
 
+DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,lcdn-registration.apple.com
